@@ -5,7 +5,7 @@
 **Hobbies:** Field Hockey, Scouts Leadership
 
 ## 💡 Skills
-- **Languages:** Java, PHP, MySQLIi, HTML/CSS<br>
+- **Languages:** Java, PHP, MySQLi, HTML/CSS<br>
 - **Tools:** GitHub, VSCode, Eclipse<br>
 - **Interests:** Full-Stack Development
 
